@@ -3,6 +3,7 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import SearchHeader from "./components/SearchHeader.jsx";
 import { YoutubeApiProvider } from "./context/YoutubeApiContext.jsx";
+import NotFound from "./routes/NotFound.jsx";
 import VideoDetail from "./routes/VideoDetail.jsx";
 import Videos from "./routes/Videos.jsx";
 
@@ -15,7 +16,7 @@ function App() {
       <YoutubeApiProvider>
         <QueryClientProvider client={queryClient}>
           <Routes>
-            <Route path="/" element={<Videos />} />
+            <Route path="/" element={<Videos />} errorElement={<NotFound />} />
             <Route path="/Videos" element={<Videos />} />
             <Route path="/Videos/:keyword" element={<Videos />} />
             <Route path="/Videos/watch/:videoId" element={<VideoDetail />} />

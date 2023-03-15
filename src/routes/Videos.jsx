@@ -2,8 +2,6 @@ import React from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useParams } from "react-router-dom";
 import VideoCard from "../components/VideoCard.jsx";
-import Youtube, { search } from "../api/youtube.js";
-import FakeYoutube from "../api/fakeYoutubeClient.js";
 import { useYoutubeApi } from "../context/YoutubeApiContext.jsx";
 
 export default function Videos() {
@@ -20,9 +18,9 @@ export default function Videos() {
       {isLoading && <p>로딩중...</p>}
       {error && <p>에러</p>}
       {videos && (
-        <ul>
+        <ul className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-2 gap-y-4">
           {videos.map((video, key) => (
-            <VideoCard key={key} video={video}></VideoCard>
+            <VideoCard key={key} video={video} />
           ))}
         </ul>
       )}
