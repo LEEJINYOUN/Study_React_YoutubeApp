@@ -1,0 +1,1592 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "hSqD4ynr6N_ICj0siPr4g1Sd46E",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "uyS1WqCi6aYl0HnNsnAxq9S79sw",
+      "id": "UjrRTY2UDjw",
+      "snippet": {
+        "publishedAt": "2023-03-14T15:15:09Z",
+        "channelId": "UCFcqi7MrlzIp9RMTtUlxE8g",
+        "title": "Avenged Sevenfold - Nobody (Official Video)",
+        "description": "We’re thrilled to announce our new album, Life Is But A Dream… available June 2, 2023. Watch our official stop-motion video for “Nobody” - directed by Chris Hopewell. Stop motion is a handmade labor of love, often taking 90 minutes just to capture only 2 seconds of footage. \"Nobody\" is streaming everywhere now: https://a7x.lnk.to/nobody \n\nThe new album was written and recorded over the span of four years, and inspired by the writing and philosophy of Albert Camus. Our good friend and brilliant artist, Wes Lang, encapsulated our theme of existentialism through visual art for the album packaging. Pre-order now: https://a7x.lnk.to/libad. \n\nDirector: Chris Hopewell\nProducers: Rosie Brind, Andrew Stewart\nDirector of Photography: Philip Powell\nAnimator: Jacky Howson\nGaffers:  Chris Maris, Nick Pitt\nDOP Assistant: Imogen Russell\nLighting Assistant: Joshua Stone\nArt Director: Chris Hopewell\nPuppet fabrication: Richard Heard\nHead set builder: Siobhan Raw\nHead prop Maker: Holly Jo Beck\nSet and Props: Stuart Seydel, Jonathan Minto, Chloe Moore, Alice Nutley, Spike Hopewell, Tom Rogers, Gus Wallis, Chris Addison\nStoryboard artist: James Harvey\nEditor: Tom Weller\nCompositors: Francine Breslin, Stephen Ryan\nCGI artists: Bradley Nicholls, Sean Martin\n\nNew tour dates in LA & NYC this summer: https://www.avengedsevenfold.com/tour\n \nFollow A7X:\nWebsite: https://avengedsevenfold.com/\nFacebook: https://www.facebook.com/AvengedSevenfold\nInstagram: https://www.instagram.com/avengedsevenfold/\nTwitter: https://twitter.com/TheOfficialA7X \nTikTok: https://www.tiktok.com/@avengedsevenfold\nSpotify: https://spoti.fi/3Rkfded\nDiscord: https://discord.com/invite/avengedsevenfold\n\n#AvengedSevenfold #Nobody #LifeIsButADream",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UjrRTY2UDjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UjrRTY2UDjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UjrRTY2UDjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UjrRTY2UDjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UjrRTY2UDjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Avenged Sevenfold",
+        "tags": [
+          "Avenged Sevenfold",
+          "avenged sevenfold nobody",
+          "avenged sevenfold live",
+          "avenged sevenfold life is but a dream",
+          "avenged sevenfold new album 2023",
+          "avenged sevenfold bat country",
+          "Metal Music",
+          "avenged sevenfold",
+          "avenged sevenfold album",
+          "avenged sevenfold lyrics",
+          "avenged sevenfold songs",
+          "New Album",
+          "Metal Album",
+          "rock music",
+          "Heavy music",
+          "a7x",
+          "a7x new song",
+          "a7x new album"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Avenged Sevenfold - Nobody (Official Video)",
+          "description": "We’re thrilled to announce our new album, Life Is But A Dream… available June 2, 2023. Watch our official stop-motion video for “Nobody” - directed by Chris Hopewell. Stop motion is a handmade labor of love, often taking 90 minutes just to capture only 2 seconds of footage. \"Nobody\" is streaming everywhere now: https://a7x.lnk.to/nobody \n\nThe new album was written and recorded over the span of four years, and inspired by the writing and philosophy of Albert Camus. Our good friend and brilliant artist, Wes Lang, encapsulated our theme of existentialism through visual art for the album packaging. Pre-order now: https://a7x.lnk.to/libad. \n\nDirector: Chris Hopewell\nProducers: Rosie Brind, Andrew Stewart\nDirector of Photography: Philip Powell\nAnimator: Jacky Howson\nGaffers:  Chris Maris, Nick Pitt\nDOP Assistant: Imogen Russell\nLighting Assistant: Joshua Stone\nArt Director: Chris Hopewell\nPuppet fabrication: Richard Heard\nHead set builder: Siobhan Raw\nHead prop Maker: Holly Jo Beck\nSet and Props: Stuart Seydel, Jonathan Minto, Chloe Moore, Alice Nutley, Spike Hopewell, Tom Rogers, Gus Wallis, Chris Addison\nStoryboard artist: James Harvey\nEditor: Tom Weller\nCompositors: Francine Breslin, Stephen Ryan\nCGI artists: Bradley Nicholls, Sean Martin\n\nNew tour dates in LA & NYC this summer: https://www.avengedsevenfold.com/tour\n \nFollow A7X:\nWebsite: https://avengedsevenfold.com/\nFacebook: https://www.facebook.com/AvengedSevenfold\nInstagram: https://www.instagram.com/avengedsevenfold/\nTwitter: https://twitter.com/TheOfficialA7X \nTikTok: https://www.tiktok.com/@avengedsevenfold\nSpotify: https://spoti.fi/3Rkfded\nDiscord: https://discord.com/invite/avengedsevenfold\n\n#AvengedSevenfold #Nobody #LifeIsButADream"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZjVt1_xQa7AX3G9F22l4GMjQ03g",
+      "id": "lwwrbsB342A",
+      "snippet": {
+        "publishedAt": "2023-03-14T15:00:01Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "지민 (Jimin) 'Set Me Free Pt.2' Official Teaser",
+        "description": "지민 (Jimin) 'Set Me Free Pt.2' Official Teaser\n\n'Set Me Free Pt.2' Release\n📆 3/17 1PM KST | 0AM ET\n💽 Pre-order & pre-save 'FACE': https://ingrv.es/face\n\nCredits:  \nProduction: OUI PRODUCTION\nDirector: Oui Kim\nProducer: Yeonjin Kim, Hyunsik Bang\n1st AD: Huiwon Song\n2nd AD: Sunyoung Kim, Hyeri Shin\n\nDirector of Photography: Andy Iere Kim\n1st AC: Heejeong Kim\n2nd AC: Jimin Kim\nDIT: Hyungjun An\n3rd AC: Yeoeun Ahn\n\nU-Crane arm Mini (Service Vision Korea)\nDriver: Hakser Kim\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Sungjun Lee\n\nScorpio Crane 38ft (Service Vision Korea)\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Bumki Lee, Kiwon Lee\n\nKey Grip: Kiheon Choi\nBest Boy: Sungeun Kim, jiin Whang\nGrip: Deaheon Choi\n\nDrone Team: GodFinger\nDrone Opreator: Minjae Lee\nGimbal Operator: Junhwan Cha\n1st Assist: Youngjun Park\n2nd Assist: Euntae Lee\n\nGaffer: Joonghyuk Jung\nCrew: Hyunsuk Kim, Minhyeok Back, Hwayong Chung, Dongyun Sin, Yusung Han, Youngmin Choi\n\nArt Director: Minkyu Jeon\nArt Team Lead: Yesol Kim\nArt Team: Youngmi Kim, Yoonhwan Kim\n\nShow Light: J SHOW COMPANY\nCrew: Minseok Choi, Kisoon Kwak, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang, Junki Jeong, Sebin Lee\n\nColorist: Changbeen Yu\nAssist: Soyeon Kim\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n\n#SetMeFree_Pt2 #지민 #Jimin #Jimin_FACE",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lwwrbsB342A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lwwrbsB342A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lwwrbsB342A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lwwrbsB342A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lwwrbsB342A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "지민 (Jimin) 'Set Me Free Pt.2' Official Teaser",
+          "description": "지민 (Jimin) 'Set Me Free Pt.2' Official Teaser\n\n'Set Me Free Pt.2' Release\n📆 3/17 1PM KST | 0AM ET\n💽 Pre-order & pre-save 'FACE': https://ingrv.es/face\n\nCredits:  \nProduction: OUI PRODUCTION\nDirector: Oui Kim\nProducer: Yeonjin Kim, Hyunsik Bang\n1st AD: Huiwon Song\n2nd AD: Sunyoung Kim, Hyeri Shin\n\nDirector of Photography: Andy Iere Kim\n1st AC: Heejeong Kim\n2nd AC: Jimin Kim\nDIT: Hyungjun An\n3rd AC: Yeoeun Ahn\n\nU-Crane arm Mini (Service Vision Korea)\nDriver: Hakser Kim\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Sungjun Lee\n\nScorpio Crane 38ft (Service Vision Korea)\nHead Tech: Sangjo Lee\nCrane Oper: Yongguen Hwang\nAssist: Bumki Lee, Kiwon Lee\n\nKey Grip: Kiheon Choi\nBest Boy: Sungeun Kim, jiin Whang\nGrip: Deaheon Choi\n\nDrone Team: GodFinger\nDrone Opreator: Minjae Lee\nGimbal Operator: Junhwan Cha\n1st Assist: Youngjun Park\n2nd Assist: Euntae Lee\n\nGaffer: Joonghyuk Jung\nCrew: Hyunsuk Kim, Minhyeok Back, Hwayong Chung, Dongyun Sin, Yusung Han, Youngmin Choi\n\nArt Director: Minkyu Jeon\nArt Team Lead: Yesol Kim\nArt Team: Youngmi Kim, Yoonhwan Kim\n\nShow Light: J SHOW COMPANY\nCrew: Minseok Choi, Kisoon Kwak, Yebum Bang, Junho Jeong, Jiwoong Han, Yerim Kwon, Haeyoung Kang, Junki Jeong, Sebin Lee\n\nColorist: Changbeen Yu\nAssist: Soyeon Kim\n\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\n\nConnect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com\n\n\n#SetMeFree_Pt2 #지민 #Jimin #Jimin_FACE"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cCF9bFQ1wsnMzpL1va8PyLRw7wc",
+      "id": "qg4FJzdsmuw",
+      "snippet": {
+        "publishedAt": "2023-03-13T19:00:31Z",
+        "channelId": "UCtNdVINwfYFTQEEZgMiQ8FA",
+        "title": "The REAL Boogeyman?! A Horrible Man or Monster - Albert Fish | Mystery & Makeup | Bailey Sarian",
+        "description": "Thanks to HelloFresh for sponsoring this video! For 60% off with HelloFresh PLUS free shipping, use code BAILEYSARIAN60 at https://bit.ly/3lHJJmX\n\n______________\n\nHi friends, happy Monday! \n\nAlbert Fish went by a lot of names: Ham and Eggs, The Grey Man, The Boogeyman. Also Albert wasn’t even his real name, it was Howard. But one name he for sure needed was monster. What do you guys think of Albert?\n\nAlso, let me know who you want me to talk about next time. Hope you have a great rest of your week, make good choices and I'll be seeing you very soon\nxo\nBailey Sarian\n\n________\n\n\n:  :    F O L L O W    M E     :  :\n\nDiscord: http://discord.gg/baileysarian\nTik Tok: BaileySarian\nInstagram: http://bit.ly/2nbO4PR\nFacebook: http://bit.ly/2mdZtK6\nTwitter: http://bit.ly/2yT4BLV\nPinterest: http://bit.ly/2mVpXnY\nYoutube: http://bit.ly/1HGw3Og\nSnapchat: BaileySarian \n\n\nRECOMMEND A STORY HERE: cases4bailey@gmail.com \n\nBusiness Related Emails: Baileysarianteam@wmeagency.com\n\nWanna Send Me Something?\nBailey Sarian\n4400 W Riverside Dr. Ste 110-300,\nBurbank, CA 91505\n\n_________\n\n:  :    P R O D U C T S     U S E D    :  :\n\nFACE\nL’Oreal Infallible 24H Shade “420” - https://shop-links.co/ci7Us6q7kSD\nDanessa Myricks Vision Cream Cover Shade N4.5- https://shop-links.co/cjiwNhuzYUy \nNARS Radiant Creamy Concealer “CANNELLE” https://shop-links.co/cjiwNgICswK \nJaclyn Correcting Face Powder “Correcting Fair” https://shop-links.co/cjiwNhizaI5 \nNARS Bronzing Cream “Laguna 01”- https://shop-links.co/cjiwNhsfhy3 \nCoty Airspun Loose Powder- https://shop-links.co/ci7Us7b9Ez9 \nDanessa Myricks Yummy Skin Blush “Rosé N Brunch”- https://shop-links.co/cjiwNhAZJGr \nBenefit Hoola Bronzer- https://shop-links.co/ci7Us69eh7k \n\n\nBROWS\nJecca Blac Brow Gel- https://shop-links.co/cjgm2aSZFEg \nAnastasia Beverly Hills Brow Pen “Dark Brown”- https://shop-links.co/cjgm2apKj18 \n\nEYES\nMelt Cosmetics Reflect Gel Liner “Santos”- Out of Stock\nMelt Cosmetics “Muerte” Palette- Out of Stock\nMAC Stack Mascara- https://shop-links.co/cjiwNiEobk1 \nArdell Active Lash “Physical”- https://shop-links.co/cjiwNhYDJ0M \n\nLIPS\nColourpop Lippie Pencil “Field Day”- https://shop-links.co/cjiwNh0S6eT \nSephora Cream Lipstain Shade 74- https://shop-links.co/cjiwNiwDzux \nColourpop Lux Lip Oil “Totally Magnetic”- https://shop-links.co/cjiwNiGcLDJ \n\n\n♡ \n*These links are affiliate links. Which means, if you click on the link and purchase a product, a small percentage comes back to me. It helps me keep on keepin on with my videos, and I appreciate you if you choose to support. If you don’t, that’s ok too.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qg4FJzdsmuw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qg4FJzdsmuw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qg4FJzdsmuw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qg4FJzdsmuw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qg4FJzdsmuw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bailey Sarian",
+        "tags": [
+          "Bailey sarian",
+          "youtube bailey sarian",
+          "bailey sarian youtube",
+          "youtube bailey",
+          "bailey",
+          "sarian",
+          "mystery makeup monday",
+          "monday mystery makeup",
+          "mystery makeup",
+          "mystery makeup mondays",
+          "makeup artist",
+          "new makeup tutorial",
+          "flawless makeup",
+          "makeup and story time",
+          "makeup story time",
+          "story time and makeup",
+          "story time",
+          "grwm",
+          "grwm and makeup",
+          "get ready with me and makeup",
+          "makeup grwm",
+          "flawless foundation",
+          "mystery monday",
+          "mystery",
+          "monday story time",
+          "dark history",
+          "history story",
+          "hilarious"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The REAL Boogeyman?! A Horrible Man or Monster - Albert Fish | Mystery & Makeup | Bailey Sarian",
+          "description": "Thanks to HelloFresh for sponsoring this video! For 60% off with HelloFresh PLUS free shipping, use code BAILEYSARIAN60 at https://bit.ly/3lHJJmX\n\n______________\n\nHi friends, happy Monday! \n\nAlbert Fish went by a lot of names: Ham and Eggs, The Grey Man, The Boogeyman. Also Albert wasn’t even his real name, it was Howard. But one name he for sure needed was monster. What do you guys think of Albert?\n\nAlso, let me know who you want me to talk about next time. Hope you have a great rest of your week, make good choices and I'll be seeing you very soon\nxo\nBailey Sarian\n\n________\n\n\n:  :    F O L L O W    M E     :  :\n\nDiscord: http://discord.gg/baileysarian\nTik Tok: BaileySarian\nInstagram: http://bit.ly/2nbO4PR\nFacebook: http://bit.ly/2mdZtK6\nTwitter: http://bit.ly/2yT4BLV\nPinterest: http://bit.ly/2mVpXnY\nYoutube: http://bit.ly/1HGw3Og\nSnapchat: BaileySarian \n\n\nRECOMMEND A STORY HERE: cases4bailey@gmail.com \n\nBusiness Related Emails: Baileysarianteam@wmeagency.com\n\nWanna Send Me Something?\nBailey Sarian\n4400 W Riverside Dr. Ste 110-300,\nBurbank, CA 91505\n\n_________\n\n:  :    P R O D U C T S     U S E D    :  :\n\nFACE\nL’Oreal Infallible 24H Shade “420” - https://shop-links.co/ci7Us6q7kSD\nDanessa Myricks Vision Cream Cover Shade N4.5- https://shop-links.co/cjiwNhuzYUy \nNARS Radiant Creamy Concealer “CANNELLE” https://shop-links.co/cjiwNgICswK \nJaclyn Correcting Face Powder “Correcting Fair” https://shop-links.co/cjiwNhizaI5 \nNARS Bronzing Cream “Laguna 01”- https://shop-links.co/cjiwNhsfhy3 \nCoty Airspun Loose Powder- https://shop-links.co/ci7Us7b9Ez9 \nDanessa Myricks Yummy Skin Blush “Rosé N Brunch”- https://shop-links.co/cjiwNhAZJGr \nBenefit Hoola Bronzer- https://shop-links.co/ci7Us69eh7k \n\n\nBROWS\nJecca Blac Brow Gel- https://shop-links.co/cjgm2aSZFEg \nAnastasia Beverly Hills Brow Pen “Dark Brown”- https://shop-links.co/cjgm2apKj18 \n\nEYES\nMelt Cosmetics Reflect Gel Liner “Santos”- Out of Stock\nMelt Cosmetics “Muerte” Palette- Out of Stock\nMAC Stack Mascara- https://shop-links.co/cjiwNiEobk1 \nArdell Active Lash “Physical”- https://shop-links.co/cjiwNhYDJ0M \n\nLIPS\nColourpop Lippie Pencil “Field Day”- https://shop-links.co/cjiwNh0S6eT \nSephora Cream Lipstain Shade 74- https://shop-links.co/cjiwNiwDzux \nColourpop Lux Lip Oil “Totally Magnetic”- https://shop-links.co/cjiwNiGcLDJ \n\n\n♡ \n*These links are affiliate links. Which means, if you click on the link and purchase a product, a small percentage comes back to me. It helps me keep on keepin on with my videos, and I appreciate you if you choose to support. If you don’t, that’s ok too."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wuiTTlr5YHJIltzT2LT_uZTPz7c",
+      "id": "kpGo2_d3oYE",
+      "snippet": {
+        "publishedAt": "2023-03-13T00:59:01Z",
+        "channelId": "UCuaFvcY4MhZY3U43mMt1dYQ",
+        "title": "The Little Mermaid | Official Trailer",
+        "description": "Watch and you'll see, some day I'll be, part of your world! Watch the new trailer for #TheLittleMermaid and see the movie in theaters May 26!\n\nThe brand new soundtrack for Disney’s “The Little Mermaid” is available now to Pre-Save, Pre-Add or Pre-Order – https://presave.umusic.com/thelittlemermaidsoundtrack\n\n“The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters and the most defiant, Ariel longs to find out more about the world beyond the sea and, while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land but ultimately places her life – and her father’s crown – in jeopardy. The film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Tony Award® winner Daveed Diggs (“Hamilton”) as the voice of Sebastian; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jacob Tremblay (“Luca”) as the voice of Flounder; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; Art Malik (“Homeland”) as Sir Grimsby; with Oscar® winner Javier Bardem (“No Country for Old Men”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n \n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”) with a screenplay by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”). The songs feature music from multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”) and lyrics by Howard Ashman, and new lyrics by three-time Tony Award® winner Lin-Manuel Miranda. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), Miranda, two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), and Rob Marshall, with Jeffrey Silver (“The Lion King”) serving as executive producer. \n\nHashtag: #TheLittleMermaid\nTwitter: https://twitter.com/littlemermaid\nFacebook: https://www.facebook.com/DisneyTheLittleMermaid\nInstagram: https://www.instagram.com/disneylittlemermaid/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kpGo2_d3oYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Walt Disney Studios",
+        "tags": [
+          "the little mermaid",
+          "halle bailey",
+          "disney",
+          "ursula",
+          "scuttle",
+          "movie",
+          "trailer",
+          "prince Eric",
+          "Melissa McCarthy",
+          "part of your world",
+          "under the sea",
+          "poor unfortunate souls"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Little Mermaid | Official Trailer",
+          "description": "Watch and you'll see, some day I'll be, part of your world! Watch the new trailer for #TheLittleMermaid and see the movie in theaters May 26!\n\nThe brand new soundtrack for Disney’s “The Little Mermaid” is available now to Pre-Save, Pre-Add or Pre-Order – https://presave.umusic.com/thelittlemermaidsoundtrack\n\n“The Little Mermaid” is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton’s daughters and the most defiant, Ariel longs to find out more about the world beyond the sea and, while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land but ultimately places her life – and her father’s crown – in jeopardy. The film stars singer and actress Halle Bailey (“grown-ish”) as Ariel; Jonah Hauer-King (“A Dog’s Way Home”) as Prince Eric; Tony Award® winner Daveed Diggs (“Hamilton”) as the voice of Sebastian; Awkwafina (“Raya and the Last Dragon”) as the voice of Scuttle; Jacob Tremblay (“Luca”) as the voice of Flounder; Noma Dumezweni (“Mary Poppins Returns”) as Queen Selina; Art Malik (“Homeland”) as Sir Grimsby; with Oscar® winner Javier Bardem (“No Country for Old Men”) as King Triton; and two-time Academy Award® nominee Melissa McCarthy (“Can You Ever Forgive Me?” “Bridesmaids”) as Ursula.      \n \n“The Little Mermaid” is directed by Oscar® nominee Rob Marshall (“Chicago,” “Mary Poppins Returns”) with a screenplay by two-time Oscar nominee David Magee (“Life of Pi,” “Finding Neverland”). The songs feature music from multiple Academy Award® winner Alan Menken (“Beauty and the Beast,” “Aladdin”) and lyrics by Howard Ashman, and new lyrics by three-time Tony Award® winner Lin-Manuel Miranda. The film is produced by two-time Emmy® winner Marc Platt (“Jesus Christ Superstar Live in Concert,” “Grease Live!”), Miranda, two-time Emmy winner John DeLuca (“Tony Bennett: An American Classic”), and Rob Marshall, with Jeffrey Silver (“The Lion King”) serving as executive producer. \n\nHashtag: #TheLittleMermaid\nTwitter: https://twitter.com/littlemermaid\nFacebook: https://www.facebook.com/DisneyTheLittleMermaid\nInstagram: https://www.instagram.com/disneylittlemermaid/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NJn5LSFw21A32RaLOvq7JeRmTqo",
+      "id": "g0amdIcZt5I",
+      "snippet": {
+        "publishedAt": "2023-03-14T16:59:41Z",
+        "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+        "title": "World's Strongest Magnet!",
+        "description": "The world's strongest magnet is a million times stronger than Earth's magnetic field. Learn more about sustainability and Google’s efforts at sustainability.google. Part of this video was sponsored by Google.\n\nTrends insights for the past year are based on Google Trends data from 2/10/2022 - 2/10/2023, U.S.\n\n▀▀▀\nThanks to the entire NHMFL team - especially Tim, Stephen, Caroline, Kristin, Sam, Lance, and everyone who helped with the demos - for the great visit. \nThe NHMFL is funded by the National Science Foundation and the State of Florida.\n\nSpecial thanks to Henry from Minutephysics for lending his magnet animations from our magnet collaboration: https://youtu.be/hFAOXdXZ5TM\n\n▀▀▀\nReferences:\nLiu, Y., Zhu, D. M., Strayer, D. M., & Israelsson, U. E. (2010). Magnetic levitation of large water droplets and mice. Advances in Space Research, 45(1), 208-213.\n\nSimon, M. D., & Geim, A. K. (2000). Diamagnetic levitation: Flying frogs and floating magnets. Journal of applied physics, 87(9), 6200-6204.\n\nBerry, M. V., & Geim, A. K. (1997). Of flying frogs and levitrons. European Journal of Physics, 18(4), 307.\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nTj Steyn, Meg Noah, Bernard McGee, James Sanger, Elliot Miller, Jerome Barakos M.D., Amadeo Bee, TTST, Balkrishna Heroor, Chris LaClair, John H. Austin Jr., Eric Sexton, John Kiehl, Anton Ragin, Diffbot, Gnare, Dave Kircher, Burt Humburg, Blake Byers, Evgeny Skvortsov, Meekay, Bill Linder, Paul Peijzel, Josh Hibschman, Mac Malkawi, Juan Benet, Sunil Nagaraj, Richard Sundvall, Lee Redden, Stephen Wilcox, Marinus Kuivenhoven, Michael Krugman, Cy 'kkm' K'Nelson, Sam Lutfi\n\n▀▀▀\nWritten by Derek Muller\nEdited and Motion Graphics by Trenton Oliver \nCoordinated by Emily Zhang and Derek Muller\nFilmed by Derek Muller, Trenton Oliver, and Emily Zhang\nAdditional video/photos supplied by Pond5 & Getty Images\nMusic from Epidemic Sound\nProduced by Derek Muller, Petr Lebedev, and Emily Zhang",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g0amdIcZt5I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g0amdIcZt5I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g0amdIcZt5I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g0amdIcZt5I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g0amdIcZt5I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Veritasium",
+        "tags": ["veritasium", "science", "physics"],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "World's Strongest Magnet!",
+          "description": "The world's strongest magnet is a million times stronger than Earth's magnetic field. Learn more about sustainability and Google’s efforts at sustainability.google. Part of this video was sponsored by Google.\n\nTrends insights for the past year are based on Google Trends data from 2/10/2022 - 2/10/2023, U.S.\n\n▀▀▀\nThanks to the entire NHMFL team - especially Tim, Stephen, Caroline, Kristin, Sam, Lance, and everyone who helped with the demos - for the great visit. \nThe NHMFL is funded by the National Science Foundation and the State of Florida.\n\nSpecial thanks to Henry from Minutephysics for lending his magnet animations from our magnet collaboration: https://youtu.be/hFAOXdXZ5TM\n\n▀▀▀\nReferences:\nLiu, Y., Zhu, D. M., Strayer, D. M., & Israelsson, U. E. (2010). Magnetic levitation of large water droplets and mice. Advances in Space Research, 45(1), 208-213.\n\nSimon, M. D., & Geim, A. K. (2000). Diamagnetic levitation: Flying frogs and floating magnets. Journal of applied physics, 87(9), 6200-6204.\n\nBerry, M. V., & Geim, A. K. (1997). Of flying frogs and levitrons. European Journal of Physics, 18(4), 307.\n\n▀▀▀\nSpecial thanks to our Patreon supporters:\nTj Steyn, Meg Noah, Bernard McGee, James Sanger, Elliot Miller, Jerome Barakos M.D., Amadeo Bee, TTST, Balkrishna Heroor, Chris LaClair, John H. Austin Jr., Eric Sexton, John Kiehl, Anton Ragin, Diffbot, Gnare, Dave Kircher, Burt Humburg, Blake Byers, Evgeny Skvortsov, Meekay, Bill Linder, Paul Peijzel, Josh Hibschman, Mac Malkawi, Juan Benet, Sunil Nagaraj, Richard Sundvall, Lee Redden, Stephen Wilcox, Marinus Kuivenhoven, Michael Krugman, Cy 'kkm' K'Nelson, Sam Lutfi\n\n▀▀▀\nWritten by Derek Muller\nEdited and Motion Graphics by Trenton Oliver \nCoordinated by Emily Zhang and Derek Muller\nFilmed by Derek Muller, Trenton Oliver, and Emily Zhang\nAdditional video/photos supplied by Pond5 & Getty Images\nMusic from Epidemic Sound\nProduced by Derek Muller, Petr Lebedev, and Emily Zhang"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W5ZiPmxicqnNaqEim_ZVYO2qLWQ",
+      "id": "fgMqIlgXlyI",
+      "snippet": {
+        "publishedAt": "2023-03-12T17:07:31Z",
+        "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+        "title": "WORST jumpscare in YEARS [Fears To Fathom: Carson House]",
+        "description": "WELCOME, back to Fears To Fathom! This time we tackle Chapter 3 of the episodic horror: Carson House.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2120900/Fears_to_Fathom__Carson_House/#:~:text=In%20the%20third%20episode%20of,going%20on%20for%20that%20weekend.\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #fearstofathom",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fgMqIlgXlyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CoryxKenshin",
+        "tags": [
+          "fears to fathom carson house",
+          "fears to fathom",
+          "fears",
+          "to",
+          "fathom",
+          "chapter 3",
+          "gameplay",
+          "game",
+          "playthrough",
+          "walkthrough",
+          "cara",
+          "jumpscare",
+          "worse",
+          "in",
+          "years",
+          "coryxkenshin",
+          "cory",
+          "kenshin",
+          "scary",
+          "reaction"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WORST jumpscare in YEARS [Fears To Fathom: Carson House]",
+          "description": "WELCOME, back to Fears To Fathom! This time we tackle Chapter 3 of the episodic horror: Carson House.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2120900/Fears_to_Fathom__Carson_House/#:~:text=In%20the%20third%20episode%20of,going%20on%20for%20that%20weekend.\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #fearstofathom"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-QYdTxeLe3-bJrjXXPA4jVXX2M0",
+      "id": "qwoyUpxjQ9c",
+      "snippet": {
+        "publishedAt": "2023-03-13T19:57:55Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "Lady Gaga - Hold My Hand (Live From The Oscars/2023)",
+        "description": "Listen to “Hold My Hand” (Music From The Motion Picture \"Top Gun: Maverick”): http://LadyGaga.lnk.to/HoldMyHand\n\nShop “Hold My Hand” official merch: https://shop.ladygaga.com/collections/top-gun\n\nFollow Lady Gaga:\nFacebook: https://ladygaga.lnk.to/facebook\nInstagram: https://ladygaga.lnk.to/instagram \nSnapchat: https://ladygaga.lnk.to/snapchat \nTwitter: https://ladygaga.lnk.to/twitter \nWebsite: http://www.ladygaga.com/\nOfficial Store: https://LadyGaga.lnk.to/OfficialStore \n\nFollow Top Gun:\nInstagram: https://www.instagram.com/topgunmovie/\nTwitter: https://twitter.com/topgunmovie\nFacebook: https://www.facebook.com/TopGunMovie/\nWebsite: https://www.topgunmovie.com/\n\nhttp://vevo.ly/sFiWGd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qwoyUpxjQ9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "tags": [
+          "lady gaga",
+          "hold my hand live",
+          "gaga Oscars",
+          "top gun maverick",
+          "lady gaga top gun"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Lady Gaga - Hold My Hand (Live From The Oscars/2023)",
+          "description": "Listen to “Hold My Hand” (Music From The Motion Picture \"Top Gun: Maverick”): http://LadyGaga.lnk.to/HoldMyHand\n\nShop “Hold My Hand” official merch: https://shop.ladygaga.com/collections/top-gun\n\nFollow Lady Gaga:\nFacebook: https://ladygaga.lnk.to/facebook\nInstagram: https://ladygaga.lnk.to/instagram \nSnapchat: https://ladygaga.lnk.to/snapchat \nTwitter: https://ladygaga.lnk.to/twitter \nWebsite: http://www.ladygaga.com/\nOfficial Store: https://LadyGaga.lnk.to/OfficialStore \n\nFollow Top Gun:\nInstagram: https://www.instagram.com/topgunmovie/\nTwitter: https://twitter.com/topgunmovie\nFacebook: https://www.facebook.com/TopGunMovie/\nWebsite: https://www.topgunmovie.com/\n\nhttp://vevo.ly/sFiWGd"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kZndNkqJbKwgMd3oIdDYHyjhg5s",
+      "id": "7xTQJbkwSfs",
+      "snippet": {
+        "publishedAt": "2023-03-14T09:00:07Z",
+        "channelId": "UCpltpdgUIrAlf5oPmHslyLQ",
+        "title": "So!YoON! (황소윤) 'Smoke Sprite' (feat. RM of BTS) Official MV",
+        "description": "So!YoON!\nEpisode1 : Love\n01. IN (Void) \n02. Smoke Sprite (feat. RM of BTS)\n03. Till the sun goes up \n04. Bad \n05. why don’t you take me out? (skit) \n06. Gave you all my love (feat. jibin of Y2K92)\n07. zone out; (skit) \n08. EXIT\n09. LOVE (a secret visitor) (feat. parkjiyoon) \n10. CANADA \n11. OUT (to be continued… :)\n\n\n[Smoke Sprite (feat. RM of BTS)]\nProduced by Hwang Soyoon\nLyrics by Hwang Soyoon, RM, Chae Lin Suh\nComposed by Hwang Soyoon, RM, Te Rim, chiyoonhae\nArranged by Hwang Soyoon, chiyoonhae, Te Rim\n\nPerformed by\nVocal : Hwang Soyoon, RM\nGuitar : Hwang Soyoon\nDrums : Jeon Iljun \nBass : chiyoonhae\nSynthesizers, Sound Effects : Te Rim\nChorus : Hwang Soyoon\n\nMixed by Matt Cohn\nMastered by Chab/Chabmastering Studio\n\n\n[Smoke Sprite M/V]\nProduction : Boring Studio\nDirector : Lee Suho \n\nExecutive Producer : Lee Seokjun \nAD : Kwon Jeheon, Hwang Hyunjin \nPA : Kim Dohyeong, Nam Kichan, Lee Sohyun\n\nD.O.P : Lee Jinhyuk\n1st : Hong Kang\n2nd : Ryu Seunggyu, Jeong Geonwoo\n3rd : Kim Minho \n\nGaffer : Oh Jonghwan \n1st : Kim Hyeonggyun \n2nd : Lee Kyeonghwan\n3rd : Choi Beomseok\n4th : Jeong Heeuk\n5th : Yoon Jaewoong\n\nGaffer : Jin Hogyun\nAssistant : Hwang Jinhee\n\nArt Director : Ha Hyelin, Choi Seojin\n\n2D VFX : Kim Hanbin\n3D VFX : AQUON \nFPV DRONE : Kim Minchan\n\n\n[Visual]\nCreative Director : Hwang Soyoon\nContent Director : Kang Donghun\nProject Director : Kim Youngkyoung\nMovement Director : Che Yubina (track 4,5,6)\n\nSmoke Sprite M/V Director : Lee Suho/Boring Studio\nBad M/V Director : Song Taejong\nCANADA M/V Director : Jeon Jaemin\nAlbum Teaser & Preview Video : Song Taejong\nPromotion & Documentary Video : Kim Taehwan\n\nProfile Photo : Park Jongha/CO-OP.\nAlbum Photo : Baek Dohyun\nAlbum Cover Work : Baek Dohyun\nAlbum Physical Design : Shin Donghyeok/SHIN SHIN\nDesign Support : Jeong Dahye\n3D work : Lee Kyungjin/OOST\nPromotion Photo : Hong Taesik\n\nHair : Oh Jihye \nHair Assistant : Kim Suyeon\nMake Up : Choi Minseok \nMake Up Assistant : Jin Hyeri, Jin Soeun\nStyle : Park Anna \nStyle Assistant : Min Jung Lee\n\n\n[Management]\nExecutive producer : Hong Dalnim\nManagement Director : Hong Dalnim, Jung Jungu\nA&R Director : Kang Donghun\nA&R Assistant : Hong Taesik, Kang Eunseo\nArtist Management : Kim Yujae, Kim Sujeong, Jo Seungbeom\nManagement Assistant : Nam Yeonwoo, Choi Jeonghwa, Song Soyoung, Kim Doyoon, Lim Wookyung\n\nManagement : MAGIC STRAWBERRY SOUND\n\n#황소윤 #RM #bts \n\n[Listen]\nMelon : https://bit.ly/404Zi6Z\nGenie : https://bit.ly/42ct8Zm\nBugs : https://bit.ly/3LqcbV8\nVibe : https://bit.ly/3FJE7Qr\nFLO : https://bit.ly/3LDRqFR\nApple Music : https://apple.co/3mSnTNY\nSpotify : https://spoti.fi/3Tg5lDE\nYT Music : https://bit.ly/3mJOMDL\n\nFollow SE SO NEON\nWebsite | http://www.msbsound.com/artist/sesoneon/\nInstagram | https://www.instagram.com/se_so_neon/\nTwitter | https://twitter.com/se_so_neon\nFAN COMMUNITY | https://cafe.daum.net/SESONEON\nSpotify | https://open.spotify.com/artist/07OeP...\nApple Music | https://music.apple.com/artist/새소년/12...\n\nFollow So!YoON!\nWebsite | http://www.msbsound.com/artist/soyoon/\nInstagram | https://www.instagram.com/so.yoon/\nTwitter | https://twitter.com/sleeep__sheeep\nSpotify | https://open.spotify.com/artist/7H5EC...\nApple Music | https://music.apple.com/artist/황소윤/13...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7xTQJbkwSfs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "새소년 SE SO NEON",
+        "tags": [
+          "새소년",
+          "SESONEON",
+          "SE SO NEON",
+          "황소윤",
+          "유수",
+          "박현진",
+          "soyoon",
+          "So!YoON!",
+          "긴꿈",
+          "파도",
+          "난춘",
+          "락밴드",
+          "인디밴드",
+          "k-pop",
+          "케이팝",
+          "kpop",
+          "k-indie",
+          "BTS",
+          "블랙핑크",
+          "BLACKPINK",
+          "현진",
+          "k-band",
+          "KBAND",
+          "rock",
+          "rockband",
+          "축구",
+          "자유",
+          "밴드",
+          "소윤",
+          "RM",
+          "랩몬스터",
+          "방탄소년단",
+          "smoke sprite"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "So!YoON! (황소윤) 'Smoke Sprite' (feat. RM of BTS) Official MV",
+          "description": "So!YoON!\nEpisode1 : Love\n01. IN (Void) \n02. Smoke Sprite (feat. RM of BTS)\n03. Till the sun goes up \n04. Bad \n05. why don’t you take me out? (skit) \n06. Gave you all my love (feat. jibin of Y2K92)\n07. zone out; (skit) \n08. EXIT\n09. LOVE (a secret visitor) (feat. parkjiyoon) \n10. CANADA \n11. OUT (to be continued… :)\n\n\n[Smoke Sprite (feat. RM of BTS)]\nProduced by Hwang Soyoon\nLyrics by Hwang Soyoon, RM, Chae Lin Suh\nComposed by Hwang Soyoon, RM, Te Rim, chiyoonhae\nArranged by Hwang Soyoon, chiyoonhae, Te Rim\n\nPerformed by\nVocal : Hwang Soyoon, RM\nGuitar : Hwang Soyoon\nDrums : Jeon Iljun \nBass : chiyoonhae\nSynthesizers, Sound Effects : Te Rim\nChorus : Hwang Soyoon\n\nMixed by Matt Cohn\nMastered by Chab/Chabmastering Studio\n\n\n[Smoke Sprite M/V]\nProduction : Boring Studio\nDirector : Lee Suho \n\nExecutive Producer : Lee Seokjun \nAD : Kwon Jeheon, Hwang Hyunjin \nPA : Kim Dohyeong, Nam Kichan, Lee Sohyun\n\nD.O.P : Lee Jinhyuk\n1st : Hong Kang\n2nd : Ryu Seunggyu, Jeong Geonwoo\n3rd : Kim Minho \n\nGaffer : Oh Jonghwan \n1st : Kim Hyeonggyun \n2nd : Lee Kyeonghwan\n3rd : Choi Beomseok\n4th : Jeong Heeuk\n5th : Yoon Jaewoong\n\nGaffer : Jin Hogyun\nAssistant : Hwang Jinhee\n\nArt Director : Ha Hyelin, Choi Seojin\n\n2D VFX : Kim Hanbin\n3D VFX : AQUON \nFPV DRONE : Kim Minchan\n\n\n[Visual]\nCreative Director : Hwang Soyoon\nContent Director : Kang Donghun\nProject Director : Kim Youngkyoung\nMovement Director : Che Yubina (track 4,5,6)\n\nSmoke Sprite M/V Director : Lee Suho/Boring Studio\nBad M/V Director : Song Taejong\nCANADA M/V Director : Jeon Jaemin\nAlbum Teaser & Preview Video : Song Taejong\nPromotion & Documentary Video : Kim Taehwan\n\nProfile Photo : Park Jongha/CO-OP.\nAlbum Photo : Baek Dohyun\nAlbum Cover Work : Baek Dohyun\nAlbum Physical Design : Shin Donghyeok/SHIN SHIN\nDesign Support : Jeong Dahye\n3D work : Lee Kyungjin/OOST\nPromotion Photo : Hong Taesik\n\nHair : Oh Jihye \nHair Assistant : Kim Suyeon\nMake Up : Choi Minseok \nMake Up Assistant : Jin Hyeri, Jin Soeun\nStyle : Park Anna \nStyle Assistant : Min Jung Lee\n\n\n[Management]\nExecutive producer : Hong Dalnim\nManagement Director : Hong Dalnim, Jung Jungu\nA&R Director : Kang Donghun\nA&R Assistant : Hong Taesik, Kang Eunseo\nArtist Management : Kim Yujae, Kim Sujeong, Jo Seungbeom\nManagement Assistant : Nam Yeonwoo, Choi Jeonghwa, Song Soyoung, Kim Doyoon, Lim Wookyung\n\nManagement : MAGIC STRAWBERRY SOUND\n\n#황소윤 #RM #bts \n\n[Listen]\nMelon : https://bit.ly/404Zi6Z\nGenie : https://bit.ly/42ct8Zm\nBugs : https://bit.ly/3LqcbV8\nVibe : https://bit.ly/3FJE7Qr\nFLO : https://bit.ly/3LDRqFR\nApple Music : https://apple.co/3mSnTNY\nSpotify : https://spoti.fi/3Tg5lDE\nYT Music : https://bit.ly/3mJOMDL\n\nFollow SE SO NEON\nWebsite | http://www.msbsound.com/artist/sesoneon/\nInstagram | https://www.instagram.com/se_so_neon/\nTwitter | https://twitter.com/se_so_neon\nFAN COMMUNITY | https://cafe.daum.net/SESONEON\nSpotify | https://open.spotify.com/artist/07OeP...\nApple Music | https://music.apple.com/artist/새소년/12...\n\nFollow So!YoON!\nWebsite | http://www.msbsound.com/artist/soyoon/\nInstagram | https://www.instagram.com/so.yoon/\nTwitter | https://twitter.com/sleeep__sheeep\nSpotify | https://open.spotify.com/artist/7H5EC...\nApple Music | https://music.apple.com/artist/황소윤/13..."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8Nx4kCYPjhwUFRiT0ULQjuSyXsk",
+      "id": "oHjDCC6Vigc",
+      "snippet": {
+        "publishedAt": "2023-03-13T21:34:31Z",
+        "channelId": "UCFQMnBA3CS502aghlcr0_aw",
+        "title": "Banks Are Collapsing... Here's Why",
+        "description": "What now. And what's next?\n\nSupport: \n► Patreon: https://patreon.com/coffeezilla\n\nFollow: \n► Twitter: @coffeebreak_yt\n► Instagram: @coffeebreak_yt\n\nCredits:\n3D Artist: Ed Leszczynski @LeszczynskiEd\nVideo Editor: Harry Bagg  @HarryRBagg\nVirtual Production Software: Aximmetry\n\nThis video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it a Napoleon Hill pitch.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oHjDCC6Vigc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oHjDCC6Vigc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHjDCC6Vigc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oHjDCC6Vigc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oHjDCC6Vigc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coffeezilla",
+        "tags": [
+          "coffeezilla",
+          "fake guru",
+          "scam",
+          "make money online",
+          "get rich",
+          "get rich quick",
+          "silicon valley bank",
+          "svb",
+          "signature bank",
+          "bankruptcy"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Banks Are Collapsing... Here's Why",
+          "description": "What now. And what's next?\n\nSupport: \n► Patreon: https://patreon.com/coffeezilla\n\nFollow: \n► Twitter: @coffeebreak_yt\n► Instagram: @coffeebreak_yt\n\nCredits:\n3D Artist: Ed Leszczynski @LeszczynskiEd\nVideo Editor: Harry Bagg  @HarryRBagg\nVirtual Production Software: Aximmetry\n\nThis video is an opinion and in no way should be construed as statements of fact. Scams, bad business opportunities, and fake gurus are subjective terms that mean different things to different people. I think someone who promises $100K/month for an upfront fee of $2K is a scam. Others would call it a Napoleon Hill pitch."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WZG7RKY9E2aE31RaNIqeGY7FPbo",
+      "id": "OiHvsinEn58",
+      "snippet": {
+        "publishedAt": "2023-03-14T15:59:10Z",
+        "channelId": "UCugJq15BiB-c1NDYPHiznWQ",
+        "title": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs",
+        "description": "The rumours are true! Forge of the Chaos Dwarfs will be arriving in Total War: WARHAMMER III on April 13th! 🔥 Pre-order today and receive 10% discount!\n\n📄 Read more and meet our first Legendary Lord, Astragoth Ironhand, in our official blog post: https://www.totalwar.com/blog/tww3_thechaosdwarfs_astragoth/\n\nPRE-ORDER FORGE OF THE CHAOS DWARFS NOW AND RECEIVE 10% DISCOUNT! - https://store.warhammer.totalwar.com/\n\nPlay Total War: WARHAMMER III with PC Game Pass: https://www.microsoft.com/store/productid/9NGGB0GZPB9D \nPre-order Forge of the Chaos Dwarfs: https://store.warhammer.totalwar.com/\nAny questions? Check out the FAQ: https://www.totalwar.com/blog/total-war-warhammer-iii-faq/\n\n━━━━━━━━━━━━━━━━━\n\n#TotalWar #ChaosDwarfs\n\nFollow us on social media:\n➤ https://discord.gg/totalwar\n➤ http://www.facebook.com/totalwar\n➤ http://www.twitter.com/totalwar\n➤ http://www.instagram.com/totalwarofficial\n➤ http://www.twitch.tv/totalwar\n\nVideo type: Cinematic Trailer\nWhat does this mean? Full info here: ➤ http://wiki.totalwar.com/w/About_our_trailers",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OiHvsinEn58/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OiHvsinEn58/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OiHvsinEn58/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OiHvsinEn58/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Total War",
+        "tags": [
+          "Total War",
+          "warhammer",
+          "total war warhammer",
+          "rome total war",
+          "warhammer 2 total war",
+          "total war rome 2",
+          "medieval total war",
+          "medieval total war 2",
+          "three kingdoms total war",
+          "total war gameplay",
+          "shogun 2 total war",
+          "total war saga",
+          "total war warhammer gameplay",
+          "3 kingdoms",
+          "new",
+          "gameplay",
+          "trailer",
+          "warhammer 3",
+          "total war warhammer 3"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Total War: WARHAMMER III - Forge of the Chaos Dwarfs",
+          "description": "The rumours are true! Forge of the Chaos Dwarfs will be arriving in Total War: WARHAMMER III on April 13th! 🔥 Pre-order today and receive 10% discount!\n\n📄 Read more and meet our first Legendary Lord, Astragoth Ironhand, in our official blog post: https://www.totalwar.com/blog/tww3_thechaosdwarfs_astragoth/\n\nPRE-ORDER FORGE OF THE CHAOS DWARFS NOW AND RECEIVE 10% DISCOUNT! - https://store.warhammer.totalwar.com/\n\nPlay Total War: WARHAMMER III with PC Game Pass: https://www.microsoft.com/store/productid/9NGGB0GZPB9D \nPre-order Forge of the Chaos Dwarfs: https://store.warhammer.totalwar.com/\nAny questions? Check out the FAQ: https://www.totalwar.com/blog/total-war-warhammer-iii-faq/\n\n━━━━━━━━━━━━━━━━━\n\n#TotalWar #ChaosDwarfs\n\nFollow us on social media:\n➤ https://discord.gg/totalwar\n➤ http://www.facebook.com/totalwar\n➤ http://www.twitter.com/totalwar\n➤ http://www.instagram.com/totalwarofficial\n➤ http://www.twitch.tv/totalwar\n\nVideo type: Cinematic Trailer\nWhat does this mean? Full info here: ➤ http://wiki.totalwar.com/w/About_our_trailers"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gr2bS6cX_A7Axeo7QgKr97hA88I",
+      "id": "X2LyUpsd8uY",
+      "snippet": {
+        "publishedAt": "2023-03-12T21:15:23Z",
+        "channelId": "UCo_IB5145EVNcf8hw1Kku7w",
+        "title": "Game Theory: FNAF, BURN Them All (Ultimate Timeline)",
+        "description": "Special thanks to Air Up for sponsoring this episode! \nScore your free Favorite Five Variety Pack with each starter set order w/ code “FREEFAV5” ► https://airup.link/game_theorists\n\nLoyal Theorists, today we return with part 3 of our FNAF Ultimate Timeline! After covering the rise of William Afton and his descent into madness a few weeks ago today we're moving forward a bit in the timeline, talking about Sister Location to FNAF 6. There is SO much happening in this \"Modern Era\" of FNAF and I can't wait to share it all with you! So bust out the EXOTIC Butters and settle in!\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, The Rise Of Afton ►► https://youtu.be/oLj9qS9EgB8\nFNAF, The Ultimate Timeline ►► https://youtu.be/gWOXSh4-Iuc\nFNAF, Origins Of Evil ►► https://youtu.be/ZfomNvIEX74\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🎥  @FilmTheory \n🍔  @FoodTheory \n👔  @StyleTheorists   \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Warak, Pedro Freitas, Dom Sealion, Tyler Mascola, and JayskiBean\nSound Designer: Yosi Berman \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFTimeline #FNAFUltimateTimeline #SecurityBreach #FNAFSB #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X2LyUpsd8uY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Game Theorists",
+        "tags": [
+          "fnaf",
+          "five nights at freddys",
+          "fnaf timeline",
+          "matpat fnaf timeline",
+          "five nights at freddys timeline",
+          "fnaf security breach",
+          "fnaf sb",
+          "ruin dlc",
+          "fnaf ruin dlc",
+          "security breach solved",
+          "fnaf lore",
+          "fnaf theory",
+          "five nights at freddy's",
+          "fnaf timeline solved",
+          "five nights at freddys solved",
+          "fnaf character encyclopedia",
+          "fnaf movie",
+          "fnaf trailer",
+          "fnaf full timeline",
+          "fnaf secrets",
+          "matpat fnaf",
+          "game theory fnaf",
+          "matpat",
+          "game theorist",
+          "game theory",
+          "afton",
+          "purple guy",
+          "freddy",
+          "William Afton"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Game Theory: FNAF, BURN Them All (Ultimate Timeline)",
+          "description": "Special thanks to Air Up for sponsoring this episode! \nScore your free Favorite Five Variety Pack with each starter set order w/ code “FREEFAV5” ► https://airup.link/game_theorists\n\nLoyal Theorists, today we return with part 3 of our FNAF Ultimate Timeline! After covering the rise of William Afton and his descent into madness a few weeks ago today we're moving forward a bit in the timeline, talking about Sister Location to FNAF 6. There is SO much happening in this \"Modern Era\" of FNAF and I can't wait to share it all with you! So bust out the EXOTIC Butters and settle in!\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*🔽 Don’t Miss Out!*\nGet Your TheoryWear! ► https://theorywear.com/\nDive into the Reddit! ► https://www.reddit.com/r/GameTheorists/\n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet Your 30 Day Free Trial Now ► http://share.epidemicsound.com/MatPat\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*👀 Watch MORE Theories:*\nFNAF, The Rise Of Afton ►► https://youtu.be/oLj9qS9EgB8\nFNAF, The Ultimate Timeline ►► https://youtu.be/gWOXSh4-Iuc\nFNAF, Origins Of Evil ►► https://youtu.be/ZfomNvIEX74\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*SUBSCRIBE to Game Theory!*\nhttps://www.youtube.com/@GameTheory/?sub_confirmation=1\n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Join Our Other YouTube Channels!*\n​🎥  @FilmTheory \n🍔  @FoodTheory \n👔  @StyleTheorists   \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n*Credits:*\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan \"Cybert\" Seibert, Warak, Pedro Freitas, Dom Sealion, Tyler Mascola, and JayskiBean\nSound Designer: Yosi Berman \n‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐\n#FNAF #FiveNightsAtFreddys #FNAFTimeline #FNAFUltimateTimeline #SecurityBreach #FNAFSB #FNAFLore #FNAFTheory #Theory #GameTheory #Matpat"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ylY1CYl-7KRWCa40ffl44WJ8iHk",
+      "id": "NJnWB8UX3rs",
+      "snippet": {
+        "publishedAt": "2023-03-13T03:41:31Z",
+        "channelId": "UC_IpSl6O_-IRAA6fiNs05Gg",
+        "title": "Brendan Fraser Accepts the Oscar for Lead Actor",
+        "description": "Watch Brendan Fraser's Oscar 2023 acceptance speech for Actor in a Leading Role for his portrayal of Charlie in THE WHALE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NJnWB8UX3rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ABC",
+        "tags": [
+          "achievement",
+          "glamour",
+          "glitz",
+          "prestige",
+          "stars",
+          "winners2023",
+          "Brendan Fraser",
+          "Oscars"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Brendan Fraser Accepts the Oscar for Lead Actor",
+          "description": "Watch Brendan Fraser's Oscar 2023 acceptance speech for Actor in a Leading Role for his portrayal of Charlie in THE WHALE. See more Oscar acceptance speeches and highlights on Oscar.com and in the ABC app!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TcPzUK_i_hEJDPZ7WXnbbkOjZZo",
+      "id": "tfI6Sl4KITk",
+      "snippet": {
+        "publishedAt": "2023-03-14T00:12:38Z",
+        "channelId": "UCc5WO93Z4fQFhOVKXIu6GOA",
+        "title": "Adam Gets Heated And Kicks Lush Out Live On Air",
+        "description": "-------\nMain channel No Jumper channel https://www.youtube.com/c/NoJumper/videos\n\nFollow us on Social Media:\nhttps://www.snapchat.com/discover/No_Jumper/4874336901\nhttp://www.twitter.com/nojumper\nhttp://www.instagram.com/nojumper\nhttps://www.facebook.com/NOJUMPEROFFICIAL\nhttp://www.reddit.com/r/nojumper\nJOIN THE DISCORD: https://discord.gg/Q3XPfBm\n\nFollow Adam22:\nhttps://www.tiktok.com/@adam22\nhttp://www.twitter.com/adam22\nhttp://www.instagram.com/adam22\nadam22hoe on Snapchat",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tfI6Sl4KITk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tfI6Sl4KITk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tfI6Sl4KITk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tfI6Sl4KITk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tfI6Sl4KITk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "No Jumper Clips",
+        "tags": [
+          "No Jumper podcast",
+          "No jumper interview",
+          "No jumper Adam22",
+          "Adam22 interview",
+          "no jumper clips",
+          "no jumper tiktok",
+          "viral clips",
+          "no jumper reacts",
+          "rap news daily",
+          "no jumper beef",
+          "rap song reaction",
+          "flakko vs lush",
+          "lush vs no jumper"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Adam Gets Heated And Kicks Lush Out Live On Air",
+          "description": "-------\nMain channel No Jumper channel https://www.youtube.com/c/NoJumper/videos\n\nFollow us on Social Media:\nhttps://www.snapchat.com/discover/No_Jumper/4874336901\nhttp://www.twitter.com/nojumper\nhttp://www.instagram.com/nojumper\nhttps://www.facebook.com/NOJUMPEROFFICIAL\nhttp://www.reddit.com/r/nojumper\nJOIN THE DISCORD: https://discord.gg/Q3XPfBm\n\nFollow Adam22:\nhttps://www.tiktok.com/@adam22\nhttp://www.twitter.com/adam22\nhttp://www.instagram.com/adam22\nadam22hoe on Snapchat"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZJXwrwI0s5SnNI71lm36ADX4Bbo",
+      "id": "9c21TWHY2rM",
+      "snippet": {
+        "publishedAt": "2023-03-13T08:27:31Z",
+        "channelId": "UCoLrcjPV5PbUrUyXq5mjc_A",
+        "title": "Mexico vs. USA Game Highlights | 2023 World Baseball Classic",
+        "description": "Mexico takes on the United States in big pool play game.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9c21TWHY2rM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MLB",
+        "tags": [
+          "mlb",
+          "baseball",
+          "sports",
+          "mlb highlights",
+          "sports highlights",
+          "baseball highlights"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Mexico vs. USA Game Highlights | 2023 World Baseball Classic",
+          "description": "Mexico takes on the United States in big pool play game.\n\nDon't forget to subscribe! https://www.youtube.com/mlb\n\nFollow us elsewhere too:\nTwitter: https://twitter.com/MLB\nInstagram: https://www.instagram.com/mlb/\nFacebook: https://www.facebook.com/mlb\nTikTok: https://www.tiktok.com/share/user/6569247715560456198\n\nCheck out MLB.com daily to watch the MLB.TV Free Game of the Day! https://mlb.com/freegame\n\nVisit our site for all baseball news, stats and scores! https://www.mlb.com/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WyDMm51c5bbD1gZ5W8VAP-uq9cQ",
+      "id": "3MUWpGHdt6M",
+      "snippet": {
+        "publishedAt": "2023-03-14T17:15:23Z",
+        "channelId": "UCWZmCMB7mmKWcXJSIPRhzZw",
+        "title": "MY DREAM SETUP IS FINALLY COMPLETE!",
+        "description": "Do I have the best setup out of the Sidemen?\n\nHuge shoutout to PC Specialist: http://bit.ly/miniminter\n\n⭐ SEND ME YOUR VIDEO IDEAS:\nhttps://docs.google.com/forms/d/e/1FAIpQLSfrqSDycG6GevuJD7gGvfHsa3O-qdbTTyZjV-Lr3tjoP5hXLQ/viewform?usp=sf_link\n\n----- Follow me -----\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎮 Twitch: https://www.twitch.tv/miniminter\n🎬 Second Channel: https://www.youtube.com/MM7Games\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n----- My Equipment -----\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3MUWpGHdt6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3MUWpGHdt6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3MUWpGHdt6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3MUWpGHdt6M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3MUWpGHdt6M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miniminter",
+        "tags": [
+          "simon",
+          "sidemen",
+          "miniminter",
+          "mm7games",
+          "random",
+          "vlog"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "MY DREAM SETUP IS FINALLY COMPLETE!",
+          "description": "Do I have the best setup out of the Sidemen?\n\nHuge shoutout to PC Specialist: http://bit.ly/miniminter\n\n⭐ SEND ME YOUR VIDEO IDEAS:\nhttps://docs.google.com/forms/d/e/1FAIpQLSfrqSDycG6GevuJD7gGvfHsa3O-qdbTTyZjV-Lr3tjoP5hXLQ/viewform?usp=sf_link\n\n----- Follow me -----\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎮 Twitch: https://www.twitch.tv/miniminter\n🎬 Second Channel: https://www.youtube.com/MM7Games\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n----- My Equipment -----\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pCKiNiTS-YFi-wt3OkEOvx6TO6U",
+      "id": "BSPbF25_s8M",
+      "snippet": {
+        "publishedAt": "2023-03-14T11:29:02Z",
+        "channelId": "UCiWKEIAFbdMIEicYBwKfi0g",
+        "title": "Dasara Trailer | Nani | Keerthy Suresh | Santhosh  Narayanan | Srikanth Odela | SLV Cinemas",
+        "description": "Here's MASSIVE #DasaraTrailer 🔥\n\n#Dasara Movie Telugu Trailer, starring #Nani, #KeerthySuresh\nDirected by Srikanth Odela. Music by Santhosh  Narayanan, DOP by Sathyan Sooryan  ISC, Editing by Navin Nooli, Produced by Sudhakar Cherukuri On SLV Cinemas Banner.\n\nGrand Worldwide Release on March 30 in Telugu, Hindi, Tamil, Kannada & Malayalam.\n\nBook Tickets for #Dasara :- https://bookmy.show/Dasara-Voucher\n\nWritten & Directed By: Srikanth Odela\nProduced by: Sudhakar Cherukuri\nMusic : Santhosh Narayanan \nDirector Of Photography:  Sathyan Sooryan Isc\nEditor: Navin Nooli\nProduction Designer: Avinash Kolla \nStunts: Real Satish, Anbariv \nDialogues: Thota Srinivas\nWriters: Jella Srinath, Arjuna Paturi, Vamsi Krishna P \nLyrics: Kasarla Shyam, Sreemani, Rahman, Gaddam Suresh\nChoreographer: Prem Rakshith, Eshwar Penti\nVFX Supervisor: Junaid\nSound Design: Suren G, S. Alagiakoothan\nAssociate Editors: Koti, Trinendra \nPublicity Design: Kabilan C \nStills: Sridhar Chadalawada\nProduction Managers: Ravi Kumar Kottu, Kalyan Kumar Sagiraju, Brahmam Chigurupati, Sekhar Yalamanchili, Jagadeesh Pasupuleti\nPRO Vamsi-Sekhar\nMarketing - First Show\nExecutive Producer: Vijay Kumar Chaganti\nSLANG TRANSLATOR: GADDAM SURESH\n\nFor more updates about Sri Lakshmi Venkateswara Cinemas:\n\nTwitter :- https://twitter.com/SLVCinemasOffl\nInstagram :- https://www.instagram.com/slv_cinemas/\nFacebook :- https://www.facebook.com/SLVCinemasOfficial/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BSPbF25_s8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BSPbF25_s8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BSPbF25_s8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BSPbF25_s8M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BSPbF25_s8M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SLV Cinemas",
+        "tags": [
+          "dasara",
+          "nani",
+          "keerthy suresh",
+          "santoshnarayanan",
+          "slv cinemas",
+          "srikanth odela",
+          "dasara trailer",
+          "dasara telugu trailer",
+          "nani dasara",
+          "dasara songs",
+          "dasara movie"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dasara Trailer | Nani | Keerthy Suresh | Santhosh  Narayanan | Srikanth Odela | SLV Cinemas",
+          "description": "Here's MASSIVE #DasaraTrailer 🔥\n\n#Dasara Movie Telugu Trailer, starring #Nani, #KeerthySuresh\nDirected by Srikanth Odela. Music by Santhosh  Narayanan, DOP by Sathyan Sooryan  ISC, Editing by Navin Nooli, Produced by Sudhakar Cherukuri On SLV Cinemas Banner.\n\nGrand Worldwide Release on March 30 in Telugu, Hindi, Tamil, Kannada & Malayalam.\n\nBook Tickets for #Dasara :- https://bookmy.show/Dasara-Voucher\n\nWritten & Directed By: Srikanth Odela\nProduced by: Sudhakar Cherukuri\nMusic : Santhosh Narayanan \nDirector Of Photography:  Sathyan Sooryan Isc\nEditor: Navin Nooli\nProduction Designer: Avinash Kolla \nStunts: Real Satish, Anbariv \nDialogues: Thota Srinivas\nWriters: Jella Srinath, Arjuna Paturi, Vamsi Krishna P \nLyrics: Kasarla Shyam, Sreemani, Rahman, Gaddam Suresh\nChoreographer: Prem Rakshith, Eshwar Penti\nVFX Supervisor: Junaid\nSound Design: Suren G, S. Alagiakoothan\nAssociate Editors: Koti, Trinendra \nPublicity Design: Kabilan C \nStills: Sridhar Chadalawada\nProduction Managers: Ravi Kumar Kottu, Kalyan Kumar Sagiraju, Brahmam Chigurupati, Sekhar Yalamanchili, Jagadeesh Pasupuleti\nPRO Vamsi-Sekhar\nMarketing - First Show\nExecutive Producer: Vijay Kumar Chaganti\nSLANG TRANSLATOR: GADDAM SURESH\n\nFor more updates about Sri Lakshmi Venkateswara Cinemas:\n\nTwitter :- https://twitter.com/SLVCinemasOffl\nInstagram :- https://www.instagram.com/slv_cinemas/\nFacebook :- https://www.facebook.com/SLVCinemasOfficial/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wDgZS_0wQRaQ-XJuz54Nj07YErQ",
+      "id": "XCdafrFRr3o",
+      "snippet": {
+        "publishedAt": "2023-03-13T22:29:55Z",
+        "channelId": "UCe0DNp0mKMqrYVaTundyr9w",
+        "title": "15 Marvelous Secrets in Elden Ring!",
+        "description": "Buy new OFFICIAL Elden Ring Displate posters: https://displate.com/elden-ring/lands-between?art=5e87123a79f28\n\n▼ CREDITS ▼\n►Check out Gael's awesome Malenia fights @SaxSlaveGael\n►/u/FaithlessnessLucky55's post about the Winged Hussars https://www.reddit.com/r/Eldenring/comments/waducf/i_knew_i_had_seen_those_feathers_somewhere_else/\n►Special thanks to @SekiroDubi for making me aware of the 1.0 Guilty Hood description\n►Check out /u/Groomgrim's post on the Erdtree Sentinels: https://www.reddit.com/r/Eldenring/comments/z6pvrg/funfact_tree_sentinels_chain_themself_with_their/\n►Check out Fextralife's hardness stat page: https://eldenring.wiki.fextralife.com/Hardness\n►Watch Quelaag's fantastic video about Bell Bearings: https://www.tiktok.com/@xingenue/video/7203093270770076970?lang=en\n►Watch Diddykolo's original video regarding the Weeping Angel https://twitter.com/thetraumaqueen7/status/1611140594172301312?s=46&t=mcXmCHBK-29SprWeBIqAYQ\n►Watch Shieldscuff's short about the stranded graveyard pit https://www.youtube.com/shorts/5OwMmZrI4Lw\n►Watch Steelovsky's video on perfect block tech: https://www.youtube.com/watch?v=86UtinOyThg\n►Watch JeeNiNe's video on perfect block tech: https://www.youtube.com/watch?v=6mPVYVNYeIk\n\n►Support the channel with Posters & Apparel at https://vaatividya.com/\n\nTIMESTAMPS ▼▼▼\n00:00 You can kill Melina at the start of the game\n01:16 Cross my heart and hope to die\n01:59 Why do the mausoleum knights have that armor?\n03:32 Is Radagon the Cuckoo?\n06:02 Who are the hanging bodies in Limgrave?\n06:50 Why can't you dismount the Erdtree Sentinels?\n07:27 What is the hardest enemy in Elden Ring?\n08:04 What's the best way to Rune Farm?\n09:18 These golems won't attack you\n09:33 Why are they called Bell Bearings?\n12:03 This statue moves its head when your back is turned\n13:03 What happens after the tutorial?\n15:31 How to Sekiro-parry in Elden Ring\n17:25 Elden Ring is tiring work\n18:50 Where do Rennala's children come from?\n19:20 Official Elden Ring Displates!\n\n\nKINDLE THE CHANNEL [become a patron]\n►http://www.patreon.com/vaatividya\n\nSPECIAL THANKS TO\n►Mispap1, for editing and footage - https://bit.ly/3OK7y7r\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Janice Chu\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Armored Core_ for Answer Original Soundtrack #01_ Someone is Always Moving on the Surface\n►Francesco D'Andrea - Colonization of Mars.wav\n►College Of Winterhold\n►Tiko Tiko - Hero\n►First Second - Jay Varton\n►Closet Creeper - Hampus Naeselius.\n►Johan Lind\n►It's Not What You Think - Hanna Lindgren\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCdafrFRr3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCdafrFRr3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCdafrFRr3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XCdafrFRr3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XCdafrFRr3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "VaatiVidya",
+        "tags": [
+          "guide",
+          "walkthrough",
+          "lore",
+          "dark",
+          "souls",
+          "dlc",
+          "two",
+          "bloodborne",
+          "story",
+          "vaatividya",
+          "vaati",
+          "vidya",
+          "videos",
+          "(video",
+          "game)",
+          "shadows",
+          "twice",
+          "from",
+          "software",
+          "sekiro",
+          "combat",
+          "tips",
+          "tricks",
+          "elden",
+          "ring",
+          "trailer",
+          "demon's souls",
+          "remake",
+          "ps5",
+          "playstation 5",
+          "demigods",
+          "great runes",
+          "radagon",
+          "mohg",
+          "malenia",
+          "miquella",
+          "melina",
+          "margitt",
+          "liurnia",
+          "leyndell",
+          "prepare to cry",
+          "frenzied flame",
+          "secrets",
+          "ranni questline",
+          "rune farm",
+          "armored core 6",
+          "vi",
+          "all endings",
+          "best build",
+          "shadow of the erdtree",
+          "SotE",
+          "sorcerer ball",
+          "cuckoo",
+          "mausoleum knights",
+          "parry"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "15 Marvelous Secrets in Elden Ring!",
+          "description": "Buy new OFFICIAL Elden Ring Displate posters: https://displate.com/elden-ring/lands-between?art=5e87123a79f28\n\n▼ CREDITS ▼\n►Check out Gael's awesome Malenia fights @SaxSlaveGael\n►/u/FaithlessnessLucky55's post about the Winged Hussars https://www.reddit.com/r/Eldenring/comments/waducf/i_knew_i_had_seen_those_feathers_somewhere_else/\n►Special thanks to @SekiroDubi for making me aware of the 1.0 Guilty Hood description\n►Check out /u/Groomgrim's post on the Erdtree Sentinels: https://www.reddit.com/r/Eldenring/comments/z6pvrg/funfact_tree_sentinels_chain_themself_with_their/\n►Check out Fextralife's hardness stat page: https://eldenring.wiki.fextralife.com/Hardness\n►Watch Quelaag's fantastic video about Bell Bearings: https://www.tiktok.com/@xingenue/video/7203093270770076970?lang=en\n►Watch Diddykolo's original video regarding the Weeping Angel https://twitter.com/thetraumaqueen7/status/1611140594172301312?s=46&t=mcXmCHBK-29SprWeBIqAYQ\n►Watch Shieldscuff's short about the stranded graveyard pit https://www.youtube.com/shorts/5OwMmZrI4Lw\n►Watch Steelovsky's video on perfect block tech: https://www.youtube.com/watch?v=86UtinOyThg\n►Watch JeeNiNe's video on perfect block tech: https://www.youtube.com/watch?v=6mPVYVNYeIk\n\n►Support the channel with Posters & Apparel at https://vaatividya.com/\n\nTIMESTAMPS ▼▼▼\n00:00 You can kill Melina at the start of the game\n01:16 Cross my heart and hope to die\n01:59 Why do the mausoleum knights have that armor?\n03:32 Is Radagon the Cuckoo?\n06:02 Who are the hanging bodies in Limgrave?\n06:50 Why can't you dismount the Erdtree Sentinels?\n07:27 What is the hardest enemy in Elden Ring?\n08:04 What's the best way to Rune Farm?\n09:18 These golems won't attack you\n09:33 Why are they called Bell Bearings?\n12:03 This statue moves its head when your back is turned\n13:03 What happens after the tutorial?\n15:31 How to Sekiro-parry in Elden Ring\n17:25 Elden Ring is tiring work\n18:50 Where do Rennala's children come from?\n19:20 Official Elden Ring Displates!\n\n\nKINDLE THE CHANNEL [become a patron]\n►http://www.patreon.com/vaatividya\n\nSPECIAL THANKS TO\n►Mispap1, for editing and footage - https://bit.ly/3OK7y7r\n►Frans Bouma, for your legendary Elden Ring camera tools - https://fransbouma.com/\n\nPLAYLISTS\n►My Best Videos: http://bit.ly/2oMp66a\n►Elden Ring Prepare to Cry: https://bit.ly/3ApeG2N\n►Elden Ring Lore: https://bit.ly/3q3saNf\n►Elden Ring Secrets: https://bit.ly/3RdCNbQ\n►Elden Ring News: https://bit.ly/2ZkDV2d\n►Sekiro Lore: https://bit.ly/2KGEzD1\n►Sekiro Secrets: https://bit.ly/2IsObhW\n►Dark Souls 3 Lore: http://bit.ly/2n0bU13\n►Dark Souls 3 News: http://bit.ly/1NQbgbW\n►Bloodborne Lore: http://bit.ly/1X9doOQ\n►Demon's Souls Lore: http://bit.ly/16mIF86\n►Dark Souls Remastered Lore: http://bit.ly/13x6nNs\n►Dark Souls 2 Lore: http://bit.ly/1dedWjI\n►Souls-like: http://bit.ly/1xCPDnu\n\n\nSOCIAL\n►Follow me on Twitter: https://twitter.com/VaatiVidya\n►Follow me on TikTok: https://www.tiktok.com/@vaatividya\n►Follow me on Twitch.tv: http://www.twitch.tv/vaatividya\n►Follow me on Tumblr: http://vaatividya.tumblr.com/\n►Follow me on Facebook: https://www.facebook.com/Vaatividya\n►Follow me on Patreon: http://www.patreon.com/vaatividya\n►Join me on Discord: http://discord.gg/vaatividya\n\n\nTHUMBNAIL ART\n►Janice Chu\n\nMUSIC (most is royalty-free or licensed from Epidemic Sound. Sign up or browse here: (https://www.epidemicsound.com/referral/j49549/)\n►Armored Core_ for Answer Original Soundtrack #01_ Someone is Always Moving on the Surface\n►Francesco D'Andrea - Colonization of Mars.wav\n►College Of Winterhold\n►Tiko Tiko - Hero\n►First Second - Jay Varton\n►Closet Creeper - Hampus Naeselius.\n►Johan Lind\n►It's Not What You Think - Hanna Lindgren\n\nPATRONS\n►I'd like to give sincere thanks to all my patrons - your contributions have changed the course of my life, allowing me to put more emphasis on video production in the future.\n\n\n►Special thanks to Soul of Cinder-tier Patrons: John, Mihaf, Matthew, Colin, budhawillyboy, Chattan, Aritz, Erlend, Michael, Finbarwrong, David, AmazinShawn, Aidan, Joshua, Ryan, Cat, Lucian, Nicholas, HugDucks, Kyle, Xavier, Justin, Andreas, Ian, Xensvet, Mike, Loak, Morningstar, Morgan, Vanguard, Ricakardsson, Seleiful, Dain, Diablo, Chase, Andronikos, Nezzly, Rune, Thomas, Jacob, One Unimpressed Boi, Matthew, Aj, GoldenSunX, Yousif, sean, Croonz, ndr.alng, Meistermuall, Armand, Albert, Liam, AJ, Aishlinn, Reiftyr, nicolas, and Ricky."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "MW-4hjnYicaXlQJGc1KuhFc0KP0",
+      "id": "2VjZusm_xyc",
+      "snippet": {
+        "publishedAt": "2023-03-14T00:44:43Z",
+        "channelId": "UCI1XS_GkLGDOgf8YLaaXNRA",
+        "title": "SIMPLY living in the same city as the season finale battle.",
+        "description": "My Youtooz figure 👀 - https://youtooz.com/products/king-caleb\nOut now and limited.\n\nMusic - \nOddwin - 19",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2VjZusm_xyc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2VjZusm_xyc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2VjZusm_xyc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2VjZusm_xyc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2VjZusm_xyc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CalebCity",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "SIMPLY living in the same city as the season finale battle.",
+          "description": "My Youtooz figure 👀 - https://youtooz.com/products/king-caleb\nOut now and limited.\n\nMusic - \nOddwin - 19"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d8uhyS1nppirhiRgxnwRWOJjf6I",
+      "id": "0NZ6A-X6taA",
+      "snippet": {
+        "publishedAt": "2023-03-13T12:27:16Z",
+        "channelId": "UCcgqSM4YEo5vVQpqwN-MaNw",
+        "title": "Rihanna - Lift Me Up (Live from the Oscars 2023)",
+        "description": "Rihanna performing \"Lift Me Up\" live from the 95th Oscars\n\n► Stream / Download: \"Lift Me Up\": https://rihanna.lnk.to/liftmeup\n\n► Follow Rihanna\nInstagram: https://www.instagram.com/badgalriri\nTwitter: https://twitter.com/rihanna\nFacebook: https://www.facebook.com/rihanna\nYouTube @rihanna \nTikTok: https://www.tiktok.com/@rihanna\nWebsite: https://www.rihannanow.com\n\n► Follow Black Panther: Wakanda Forever \nInstagram: https://instagram.com/blackpanther \nTwitter: https://twitter.com/theblackpanther \nFacebook: https://www.facebook.com/BlackPanther\n\n#Rihanna #LiftMeUp #Oscars #TheAcademy #BlackPanther",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0NZ6A-X6taA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rihanna",
+        "tags": [
+          "rihanna",
+          "lift me up",
+          "live",
+          "live performance",
+          "the oscars",
+          "95th oscars",
+          "academy awards",
+          "oscar nominated",
+          "wakanda forever",
+          "black panther",
+          "rihanna lift me up",
+          "lift me up black panther",
+          "black panther soundtrack",
+          "lift me up live",
+          "live performance rihanna"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rihanna - Lift Me Up (Live from the Oscars 2023)",
+          "description": "Rihanna performing \"Lift Me Up\" live from the 95th Oscars\n\n► Stream / Download: \"Lift Me Up\": https://rihanna.lnk.to/liftmeup\n\n► Follow Rihanna\nInstagram: https://www.instagram.com/badgalriri\nTwitter: https://twitter.com/rihanna\nFacebook: https://www.facebook.com/rihanna\nYouTube @rihanna \nTikTok: https://www.tiktok.com/@rihanna\nWebsite: https://www.rihannanow.com\n\n► Follow Black Panther: Wakanda Forever \nInstagram: https://instagram.com/blackpanther \nTwitter: https://twitter.com/theblackpanther \nFacebook: https://www.facebook.com/BlackPanther\n\n#Rihanna #LiftMeUp #Oscars #TheAcademy #BlackPanther"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AQrYOcqAtxYi1_W9nPJsAIu4Ej0",
+      "id": "lGgQgTlR5Q0",
+      "snippet": {
+        "publishedAt": "2023-03-14T02:38:10Z",
+        "channelId": "UCgKpcxVyF0qXU1h_Irzd7XA",
+        "title": "Dominik challenges Rey Mysterio to a WrestleMania match! | WWE on FOX",
+        "description": "Dominik Mysterio congratulated his father on being the first nominee in the 2023 WWE Hall of Fame Class and challenged him to a match at WrestleMania.\n\n#WWEonFOX #RAW #DominikMysterio\n\nSUBSCRIBE for more from WWE ON FOX: https://foxs.pt/SubscribeWWEONFOX\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n►FOX Soccer’s YouTube channel: https://foxs.pt/SubscribeFOXSOCCER\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n\nSee more from WWE ON FOX: https://foxs.pt/WWEONFOXFoxSports\nLike WWE ON FOX on Facebook: https://foxs.pt/WWEONFOXFacebook\nFollow WWE ON FOX on Twitter: https://foxs.pt/WWEONFOXTwitter\nFollow WWE ON FOX on Instagram: https://foxs.pt/WWEONFOXInstagram\n\nAbout WWE ON FOX:\nYour official home for all things WWE on FOX, from Friday Night SmackDown to NXT and everything in between! WWE highlights, WWE Backstage segments, original stories with your favorite Superstars, and much, much more — find it all right here on WWE on FOX!\n\nDominik challenges Rey Mysterio to a WrestleMania match! | WWE on FOX\nhttps://youtu.be/lGgQgTlR5Q0\n\nWWE ON FOX\nhttps://www.youtube.com/c/WWEonFOX",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lGgQgTlR5Q0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lGgQgTlR5Q0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lGgQgTlR5Q0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lGgQgTlR5Q0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lGgQgTlR5Q0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "WWE ON FOX",
+        "tags": [
+          "wwe",
+          "wwe on fox",
+          "wrestling",
+          "smackdown",
+          "smackdown highlights",
+          "friday night smackdown",
+          "wwe backstage",
+          "monday night raw",
+          "monday night raw highlights",
+          "fox sports",
+          "fox",
+          "fs1",
+          "fox sports 1",
+          "sports news",
+          "sports fox",
+          "fox sports highlights",
+          "highlights",
+          "Rey Mysterio",
+          "WrestleMania match",
+          "WrestleMania",
+          "2023 WWE Hall of Fame Class",
+          "Dominik Mysterio"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dominik challenges Rey Mysterio to a WrestleMania match! | WWE on FOX",
+          "description": "Dominik Mysterio congratulated his father on being the first nominee in the 2023 WWE Hall of Fame Class and challenged him to a match at WrestleMania.\n\n#WWEonFOX #RAW #DominikMysterio\n\nSUBSCRIBE for more from WWE ON FOX: https://foxs.pt/SubscribeWWEONFOX\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n►FOX Sports YouTube channel: http://foxs.pt/SubscribeFOXSPORTS\n►PBC ON FOX’s YouTube Channel: https://foxs.pt/SubscribePBCONFOX\n►CFB ON FOX YouTube channel: https://foxs.pt/SubscribeCFBonFOX\n►FOX Soccer’s YouTube channel: https://foxs.pt/SubscribeFOXSOCCER\n►NASCAR ON FOX YouTube channel: https://foxs.pt/SubscribeNASCARonFOX\n\nSee more from WWE ON FOX: https://foxs.pt/WWEONFOXFoxSports\nLike WWE ON FOX on Facebook: https://foxs.pt/WWEONFOXFacebook\nFollow WWE ON FOX on Twitter: https://foxs.pt/WWEONFOXTwitter\nFollow WWE ON FOX on Instagram: https://foxs.pt/WWEONFOXInstagram\n\nAbout WWE ON FOX:\nYour official home for all things WWE on FOX, from Friday Night SmackDown to NXT and everything in between! WWE highlights, WWE Backstage segments, original stories with your favorite Superstars, and much, much more — find it all right here on WWE on FOX!\n\nDominik challenges Rey Mysterio to a WrestleMania match! | WWE on FOX\nhttps://youtu.be/lGgQgTlR5Q0\n\nWWE ON FOX\nhttps://www.youtube.com/c/WWEonFOX"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x_TusPL0L3EV9LjiEReB8hRoMYI",
+      "id": "5ggfD7m6eu4",
+      "snippet": {
+        "publishedAt": "2023-03-13T18:54:42Z",
+        "channelId": "UC6OTHQZgYyYQAaJ2bDqO2Mg",
+        "title": "Jdot Breezy - EST: 2019",
+        "description": "Stream EST:2019 - https://ffm.to/est2019\nJdot Breezy - EST: 2019\n\nStream \"Don't FWM Later\" https://ffm.to/dontfwmlater\n\nFollow Jdot Breezy\nInstagram:\nhttps://www.instagram.com/_jdotbreezy_/​\nFollow Hitmaker\nhttps://www.instagram.com/the.hitmaker/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ggfD7m6eu4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ggfD7m6eu4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ggfD7m6eu4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ggfD7m6eu4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ggfD7m6eu4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jdot Breezy",
+        "tags": ["jdot breezy"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jdot Breezy - EST: 2019",
+          "description": "Stream EST:2019 - https://ffm.to/est2019\nJdot Breezy - EST: 2019\n\nStream \"Don't FWM Later\" https://ffm.to/dontfwmlater\n\nFollow Jdot Breezy\nInstagram:\nhttps://www.instagram.com/_jdotbreezy_/​\nFollow Hitmaker\nhttps://www.instagram.com/the.hitmaker/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c3-4eZM1JdeShqpvcmJdJ8o7xaQ",
+      "id": "rGupceGKEGc",
+      "snippet": {
+        "publishedAt": "2023-03-13T21:45:30Z",
+        "channelId": "UCtPqR1gumPRaMLhSTlLn5nw",
+        "title": "HE IS HERE! Baby #2!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rGupceGKEGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rGupceGKEGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rGupceGKEGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rGupceGKEGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rGupceGKEGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Herberts",
+        "tags": [
+          "BABY",
+          "BIRTH",
+          "birthvlog",
+          "birth vlog",
+          "c section",
+          "mom",
+          "dad",
+          "family",
+          "Abbie and josh",
+          "josh herbert",
+          "Abbie herbert",
+          "herbert",
+          "parents",
+          "love",
+          "babies",
+          "boy",
+          "baby boy",
+          "hospital"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HE IS HERE! Baby #2!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6L5bf2N3wp5RIYKG88yQsXfBHLw",
+      "id": "boSmJasFPto",
+      "snippet": {
+        "publishedAt": "2023-03-14T16:00:01Z",
+        "channelId": "UC0_95MpNlRz9x7JmsXBClZA",
+        "title": "Eladio Carrión - Air France (Visualizer) | 3MEN2 KBRN",
+        "description": "Eladio Carrión - Air France\nDescárgalo - https://rimas.io/AirFrance\n\nSuscríbete al canal: https://rimas.ffm.to/yteladio \n\n3MEN2 KBRN: rimas.ffm.to/3men2kbrn\nSEN2 KBRN VOL. 2 the album: http://sen2kbrn2.com/ \n\nSigue a Eladio:\nSpotify: https://rimas.ffm.to/spotifyeladio\nApple Music: https://rimas.ffm.to/applemusiceladio\nInstagram: https://www.instagram.com/_eladiocarrion/\n\n\n#EladioCarrrion #AirFrance #3MEN2KBRN\n© 2023 Rimas Entertainment",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/boSmJasFPto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/boSmJasFPto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/boSmJasFPto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/boSmJasFPto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/boSmJasFPto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eladio Carrion",
+        "tags": [
+          "eladio carrion",
+          "air france",
+          "air france eladio carrion",
+          "eladio carrion air france",
+          "eladio carrion 3men2kbrn air france",
+          "airfrance",
+          "air france eladio",
+          "eladio 3men2kbrn air france",
+          "visualizer air france eladio carrion",
+          "eladio air france",
+          "airfrance eladio",
+          "3men2kbrn eladio carrion",
+          "album eladio 2013",
+          "3men2kbrn",
+          "eladio",
+          "mbappe"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Eladio Carrión - Air France (Visualizer) | 3MEN2 KBRN",
+          "description": "Eladio Carrión - Air France\nDescárgalo - https://rimas.io/AirFrance\n\nSuscríbete al canal: https://rimas.ffm.to/yteladio \n\n3MEN2 KBRN: rimas.ffm.to/3men2kbrn\nSEN2 KBRN VOL. 2 the album: http://sen2kbrn2.com/ \n\nSigue a Eladio:\nSpotify: https://rimas.ffm.to/spotifyeladio\nApple Music: https://rimas.ffm.to/applemusiceladio\nInstagram: https://www.instagram.com/_eladiocarrion/\n\n\n#EladioCarrrion #AirFrance #3MEN2KBRN\n© 2023 Rimas Entertainment"
+        },
+        "defaultAudioLanguage": "es"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "t3_yMT0HFyiiqWSDU5-mAOxIUto",
+      "id": "ldbMfRr8BEY",
+      "snippet": {
+        "publishedAt": "2023-03-14T17:00:24Z",
+        "channelId": "UCYJPby9DRCteedh5tfxVbrw",
+        "title": "Try Not To Laugh Challenge #115 w/ Ned's Declassified!",
+        "description": "Thanks to Devon, Lindsey, and Daniel for stopping by to make us laugh and nostalgic! Watch Devon interview Keith on Growing Up With Devon: https://youtu.be/NTKIZtJNrFA\n\nNed's Declassified Podcast Survival Guide: https://www.youtube.com/@NedsPod\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshPit\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nCourtney Miller // https://www.instagram.com/co_mill/\nKeith Leak Jr. // https://www.instagram.com/keithleakjr/\nNoah Grossman // https://www.instagram.com/noahgrossman214/\nChanse McCrary // https://www.instagram.com/phatchanse/\nDevon Werkheiser // https://www.instagram.com/devonwerkharder/\nLindsey Shaw // https://www.instagram.com/ladymshawsters/\nDaniel Curtis Lee // https://www.instagram.com/daniel_curtis_lee/\n\nWHO YOU DON’T SEE (usually)\nDirector: Kimmy Jimenez\nEditor: Edward Vilderman\nDirector Of Programming, Smosh Pit: Kiana Parker\nPit - AP: Kimmy Jimenez\nAD: Sierra Benhoff\nArt Director: Cassie Vance\nArt - Asst Dir.: Erin Kuschner\nArt Coord.: Alex Aguilar\nArt PA: Adam Mustafa\nSet Dresser: Squid Spelman\nAudio Mixer: Greg Jones\nCamera Operator: Vida Robbins\nContent Manager: Lizzy Jones\nDir. Audience Dev & Distro: Rachel Evans\nDIT/AE: Matt Duran\nDir. Of Photography: Brennan Iketani\nExec Coord: Erin Dougal\nGFX: Brittany Hobbs\nPost Manager: Luke Baker\nProduction Coord: Heidi Ha\nProduction Asst: Marcus Munguia\nProduction Manager: Jacqi Jones\nSr. Dir. Of Production: Zoe Moacanin\nTalent Coord: Selina Garcia\nWardrobe: Alicia Balderas\n\nNEW SMOSH:\nWatch The USA Needs A New Mascot: https://youtu.be/5DNMNN4LlCg\n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh\nTwitter: https://twitter.com/smosh",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldbMfRr8BEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldbMfRr8BEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldbMfRr8BEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ldbMfRr8BEY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ldbMfRr8BEY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Smosh Pit",
+        "tags": [
+          "smosh",
+          "smosh pit",
+          "smosh games",
+          "funny",
+          "comedy",
+          "smoosh",
+          "ned's declassified",
+          "ned's declassified school survival guide",
+          "Devon Werkheiser",
+          "Lindsey Shaw",
+          "Daniel Curtis Lee"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Try Not To Laugh Challenge #115 w/ Ned's Declassified!",
+          "description": "Thanks to Devon, Lindsey, and Daniel for stopping by to make us laugh and nostalgic! Watch Devon interview Keith on Growing Up With Devon: https://youtu.be/NTKIZtJNrFA\n\nNed's Declassified Podcast Survival Guide: https://www.youtube.com/@NedsPod\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshPit\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nCourtney Miller // https://www.instagram.com/co_mill/\nKeith Leak Jr. // https://www.instagram.com/keithleakjr/\nNoah Grossman // https://www.instagram.com/noahgrossman214/\nChanse McCrary // https://www.instagram.com/phatchanse/\nDevon Werkheiser // https://www.instagram.com/devonwerkharder/\nLindsey Shaw // https://www.instagram.com/ladymshawsters/\nDaniel Curtis Lee // https://www.instagram.com/daniel_curtis_lee/\n\nWHO YOU DON’T SEE (usually)\nDirector: Kimmy Jimenez\nEditor: Edward Vilderman\nDirector Of Programming, Smosh Pit: Kiana Parker\nPit - AP: Kimmy Jimenez\nAD: Sierra Benhoff\nArt Director: Cassie Vance\nArt - Asst Dir.: Erin Kuschner\nArt Coord.: Alex Aguilar\nArt PA: Adam Mustafa\nSet Dresser: Squid Spelman\nAudio Mixer: Greg Jones\nCamera Operator: Vida Robbins\nContent Manager: Lizzy Jones\nDir. Audience Dev & Distro: Rachel Evans\nDIT/AE: Matt Duran\nDir. Of Photography: Brennan Iketani\nExec Coord: Erin Dougal\nGFX: Brittany Hobbs\nPost Manager: Luke Baker\nProduction Coord: Heidi Ha\nProduction Asst: Marcus Munguia\nProduction Manager: Jacqi Jones\nSr. Dir. Of Production: Zoe Moacanin\nTalent Coord: Selina Garcia\nWardrobe: Alicia Balderas\n\nNEW SMOSH:\nWatch The USA Needs A New Mascot: https://youtu.be/5DNMNN4LlCg\n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Games: https://smo.sh/Sub2SmoshGames\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh\nTwitter: https://twitter.com/smosh"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D4su9wyl3jlSsY76tueu5qFJ9do",
+      "id": "8Jgui5G8yGQ",
+      "snippet": {
+        "publishedAt": "2023-03-13T14:00:06Z",
+        "channelId": "UCE_--R1P5-kfBzHTca0dsnw",
+        "title": "IShowSpeed Goes Sneaker Shopping With Complex",
+        "description": "IShowSpeed goes Sneaker Shopping with Complex’s Joe La Puma at From The Sidewalk in Cincinnati to talk about getting Ronaldo’s cleats early, his thoughts on Ronaldo’s Air Maxes, why the Yeezy Foam Runners are his favorite shoe and more. \n\nLooking for the best deal on a pair of sneakers? Download the Sole Collector app now!: https://solecollector.com/app \n\nSOLE COLLECTOR APP SKU'S:\nNike Air Foamposite Pro \"Dr. Doom\": 624041 006\nNike Zoom HyperRev 2016 'Dark Grey White': 820224 014\nCR7 x Nike Air Max 97 'Golden Patchwork': aq0655 700\nAdidas Yeezy Foam RNNR: GX4472\nNike Air VaporMax 2019 'Moon Particle Multi-Color': CI9891-200\n\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttps://www.twitch.tv/complex\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Jgui5G8yGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Complex",
+        "tags": [
+          "sneakerhead",
+          "complex",
+          "complex originals",
+          "sneakers",
+          "news",
+          "entertainment",
+          "complex media",
+          "complex networks",
+          "sneaker shopping",
+          "goat talk",
+          "hype news",
+          "pop culture",
+          "sneakers show",
+          "joe la puma",
+          "adiddas",
+          "nike",
+          "jordan",
+          "air jordan",
+          "sneaker review",
+          "new balance",
+          "FSR",
+          "Full Size Run",
+          "Brendan Dunne",
+          "KSI",
+          "nike air foamposite",
+          "foamposite dr doom",
+          "nike zoom hyperrev",
+          "air max 97 golden patchwork",
+          "air yeezy foam",
+          "nike foamposite yeezy",
+          "nike air vapormax moon particle",
+          "ishowspeed",
+          "ishowspeed world cup"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "IShowSpeed Goes Sneaker Shopping With Complex",
+          "description": "IShowSpeed goes Sneaker Shopping with Complex’s Joe La Puma at From The Sidewalk in Cincinnati to talk about getting Ronaldo’s cleats early, his thoughts on Ronaldo’s Air Maxes, why the Yeezy Foam Runners are his favorite shoe and more. \n\nLooking for the best deal on a pair of sneakers? Download the Sole Collector app now!: https://solecollector.com/app \n\nSOLE COLLECTOR APP SKU'S:\nNike Air Foamposite Pro \"Dr. Doom\": 624041 006\nNike Zoom HyperRev 2016 'Dark Grey White': 820224 014\nCR7 x Nike Air Max 97 'Golden Patchwork': aq0655 700\nAdidas Yeezy Foam RNNR: GX4472\nNike Air VaporMax 2019 'Moon Particle Multi-Color': CI9891-200\n\n\nSubscribe to Complex on YouTube: https://www.youtube.com/c/Complex\n\nCheck out more of Complex here:\nhttps://www.twitch.tv/complex\nhttp://www.complex.com\nhttps://twitter.com/Complex\nhttps://www.facebook.com/complex\nhttp://instagram.com/complex\n\nCOMPLEX is a community of creators and curators, armed with the Internet, committed to surfacing and sharing the voices and conversations that define our new America. Our videos exemplify convergence culture, exploring topics that include music, sneakers, style, sports, and pop culture through original shows and Complex News segments. Featuring your favorite celebrities, authoritative commentary, and a unique voice, our videos make culture pop."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
